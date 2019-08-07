@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Dec 13 23:01:38 BRST 2009
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=ARBORE.jar
+manifest.mergeall=true
+manifest.mainclass=gui.Janela
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

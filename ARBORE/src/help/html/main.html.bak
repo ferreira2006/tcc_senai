@@ -1,0 +1,10 @@
+<html>
+<head>
+	<title>ARBORE</title>
+</head>
+<body>
+	<h1>Software ARBORE</h1>
+	<p>O software ARBORE é resultado do processo de informatização da elaboração de laudos emitidos pela policia ambiental, conforme resolução 04 de 1994 / CONAMA, tornando a elaboração de laudos mais dinâmica, ágil e eficiente e totalmente integrado a legislação em vigor.</p>
+	<p>A ajuda divide-se em <a href="manual.html">Informações sobre o aplicativo</a>, <a href="secundaria.html">Informações sobre java.</a>. Bem como, informações sobre <a href="ergonomia.html"> e computação</a>. Ao clicar no próximo link você será redirecionado para o texto na íntegra da <a href="res0494.html">resolução</a> que deu origem ao ARBORE.</p>    
+</body>
+</html>

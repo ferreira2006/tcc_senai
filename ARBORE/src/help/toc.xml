@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<toc version="1.0"> <!--  categoryclosedimage="FolderClosed" categoryopenimage="FolderOpened"  
+topicimage="ItemIco"-->
+        <tocitem text="Exemplo com JavaHelp"    target="aplicacion">
+           <tocitem text="Sobre o Aplicativo"    target="manual"/>
+           <tocitem text="Sobre JAVA"    target="secundaria"/>
+           <tocitem text="Ergonomia e Computação"    target="ergonomia"/>
+           <tocitem text="Resolução"    target="resolucao"/>
+        </tocitem>
+</toc>
