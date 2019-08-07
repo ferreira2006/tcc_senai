@@ -4,11 +4,17 @@ SOFTWARE PARA AUXILIAR NA DETERMINAÇÃO DO ESTÁGIO DE REGENERAÇÃO DA MATA AT
 
 DESENVOLVIDO EM JAVA USANDO O ECLIPSE
 
-1 - Salve a pasta ARBORE no workspace;
-2 - Crie um novo projeto no eclipse com o nome ARBORE;
-3 - Arbore Requer MySQL 5.0 ou superior;
-4 - Executar o Script tcc.sql para criar a base de dados;
-5 - O Usuário "adm" será criado junto com a senha "adm";
+  1 - Salve a pasta ARBORE no workspace;
+	
+  2 - Crie um novo projeto no eclipse com o nome ARBORE;
+
+	
+  3 - Arbore Requer MySQL 5.0 ou superior;	
+	
+  4 - Executar o Script tcc.sql para criar a base de dados;
+	
+  5 - O Usuário "adm" será criado junto com a senha "adm";
+	
 
 RESUMO
 
