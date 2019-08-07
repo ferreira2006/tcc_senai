@@ -1,6 +1,5 @@
 TCC do Curso Técnico em Programação do Senai - 2009
 
-
 SOFTWARE PARA AUXILIAR NA DETERMINAÇÃO DO ESTÁGIO DE REGENERAÇÃO DA MATA ATLÂNTICA
 
 
